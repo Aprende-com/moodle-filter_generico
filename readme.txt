@@ -5,6 +5,7 @@ When Moodle encounters a filter string it will use the data in the filter string
 This versoion of Generico will only run on Moodle 2.9 and newer. If your version of Moodle is older than that, please visit https://moodle.org/plugins/filter_generico to get a version compatible with your version of Moodle.
 
 
+
 Usage
 ===============
 Define templates at 
